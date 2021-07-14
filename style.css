@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/*font-family: 'Poppins', sans-serif;*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.inner-hero-1 p{
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 60px;
+	font-weight: 800;
+	margin-top: 20px;
+}
+
+.hero{
+	font-family: 'Poppins', sans-serif;
+	height: ;
+	background-color: #40739e;
+	
+}
+
+.hero:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.inner-hero-1{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.inner-hero-1{
+	height: 650px;
+	width: 50%;
+	background-image: url(bg-1.jpg);
+	background-repeat: no-repeat;
+	display: inline-block;
+	float: left;
+}
+
+.inner-hero-1 img{
+	width: 240px;
+	padding-top: 50px;
+	padding-left: 390px; 
+}
+.inner-hero-2{
+	height: 325px;
+	width: 50%;
+	display: inline-block;
+	float: right;
+	background-color: #dcdde1;
+}
+	
+.inner-hero-3{
+	height: 325px;
+	width: 50%;
+	display: inline-block;
+	float: right;
+	background-color: #57606f;
+}
+
+.inner-hero-2 img{
+	/*height: 325px;*/
+	width: 40%;
+	float: right;
+	margin-top: 20px;
+	padding-left: 30px;
+}
+	
+.inner-hero-3 img{
+	/*height: 325px;*/
+	width: 35%;
+	float: left;
+	margin-top: 15px;
+	padding-right: 30px;
+	padding-left: 10px;
+}
+
+.inner-hero-2 span{
+	color: #000;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 60px;
+	font-weight: 800;
+	padding-left: 20px;
+}
+
+.inner-hero-3 span{
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 60px;
+	font-weight: 800;
+}
+
+.des-2{
+	color: #000;
+	font-size: 20px;
+	text-align: justify;
+	padding-left: 25px;
+	/*padding-right: 25px;*/
+}
+
+.des-3{
+	color: #fff;
+	font-size: 20px;
+	text-align: justify;
+	/*padding-left: 25px;*/
+	padding-right: 25px;
+}
+
+.second-section{
+	width: 78%;
+	font-family: 'Poppins', sans-serif;
+	height: 500px;
+	background-color: #40739e;
+}
+
+.box-1{
+	height: 325px;
+	width: 64.1%;
+	display: inline-block;
+	float: left;
+	background-color: #dcdde1;
+}
+
+.box-2{
+	height: 325px;
+	width: 23.9%;
+	display: inline-block;
+	float: left;
+	background-color: gray;
+}
+
+.box-3{
+	height: 325px;
+	width: 23.9%;
+	display: inline-block;
+	float: left;
+	background-color: skyblue;
+}
+
+.box-4{
+	height: 325px;
+	width: 64.1%;
+	display: inline-block;
+	float: left;
+	background-color: #391B1B;
+}
+
+.box-1 img{
+	width: 40%;
+	float: left; 
+}
+
+.box-2 img{
+	width: 85%;
+	float: right; 
+}
+
+.box-3 img{
+	width: 95%;
+	float: right;
+}
+
+.box-4 img{
+	width: 40%;
+	float: left; 
+}
